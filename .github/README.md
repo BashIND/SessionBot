@@ -5,8 +5,8 @@
 ### 🥵 sᴛʀɪɴɢ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ
   <a href="https://github.com/BashIND"><img alt="Website" src="https://img.shields.io/badge/SLAYER-blue"></a>
  
-[![Stars](https://img.shields.io/github/stars/BashIND/StringBot?style=social)](https://github.com/BashIND/StringBot/stargazers)
-  [![Forks](https://img.shields.io/github/forks/BashIND/StringBot?style=social)](https://github.com/BashIND/StringBot/fork)
+[![Stars](https://img.shields.io/github/stars/BashIND/SessionBot?style=social)](https://github.com/BashIND/SessionBot/stargazers)
+  [![Forks](https://img.shields.io/github/forks/BashIND/SessionBot?style=social)](https://github.com/BashIND/SessionBot/fork)
 
 ### 🛠️ ʟᴀɴɢᴜᴀɢᴇs ᴀɴᴅ ᴛᴏᴏʟs
 
@@ -25,7 +25,7 @@
 
 ### 🚀 ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ
   
-  <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/BashIND/StringBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+  <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/BashIND/SessionBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 
