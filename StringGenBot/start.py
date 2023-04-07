@@ -15,10 +15,10 @@ async def start(bot: Client, msg: Message):
         text=f"""Hᴇʏ {msg.from_user.mention},
 
 Tʜɪs ɪs {me2},
-This is a string session boat. In this you can create your own string session. Here you are completely secure. No danger to your string session here./n/n
--.-.-.-.-.-.-.-.-.||/n/n
+This is a string session boat. In this you can create your own string session. Here you are completely secure. No danger to your string session here.\n\n
+-.-.-.-.-.-.-.-.-.||\n\n
 यह एक स्ट्रिंग सेशन बोट है। इसमें आप अपना खुद का स्ट्रिंग सेशन बना सकते हैं। यहां आप पूरी तरह सुरक्षित हैं। यहां आपके स्ट्रिंगसेशन को कोई खतरा नहीं है।
-/n/n-.-.-.-.-.-.-.-.-.||
+\n\n-.-.-.-.-.-.-.-.-.||
 ©️ ʙʏ : [𝐃𝐀𝐒𝐇𝐈𝐍𝐆](tg://user?id={OWNER_ID}) !""",
         reply_markup=InlineKeyboardMarkup(
             [
@@ -26,8 +26,8 @@ This is a string session boat. In this you can create your own string session. H
                     InlineKeyboardButton(text="🥰 🄶🄴🄽🄴🅁🄰🅃🄴 🅈🄾🅄🅁 🄾🅆🄽 🅂🄴🅂🅂🄸🄾🄽 🥰", callback_data="generate")
                 ],
                 [
-                    InlineKeyboardButton(" ✌️ 🄹🄾🄸🄽 ✌️ ", url="https://t.me/ALL_TYP_BOTS"),
-                    InlineKeyboardButton("😎 🄾🅆🄽🄴🅁 😎 ", url="https://t.me/MUSIC_FOR3VER")
+                    InlineKeyboardButton(" ✌️ 🄹🄾🄸🄽 ✌️ ", url="https://t.me/LIFESTYLE_BOTS"),
+                    InlineKeyboardButton("😎 🄶🅁🄾🅄🄿 😎 ", url="https://t.me/MUSIC_FOR3VER")
                 ]
             ]
         ),
